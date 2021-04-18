@@ -10,4 +10,4 @@ https://github.com/python/cpython/blob/master/Lib/smtplib.py
 https://github.com/liluo/mime
 
 # This sucks
-title says all
+this is mostly just a weather its possible or not test
